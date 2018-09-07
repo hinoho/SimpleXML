@@ -1,4 +1,4 @@
-//package ru.skillbench.tasks.javax.xml;
+package ru.skillbench.tasks.javax.xml;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
